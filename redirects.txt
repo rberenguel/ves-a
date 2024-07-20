@@ -1,0 +1,4 @@
+/twi https://twitter.com
+/gh https://github.com
+/g https://mail.google.com/mail/u/0/#inbox
+/yt https://youtube.com
